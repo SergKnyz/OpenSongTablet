@@ -129,7 +129,7 @@
     <string name="checkchordformat">"Вы уверены, что аккорды в нужном формате?"</string>
     <string name="oldchordformat">"Определен текущий формат аккордов"</string>
 
-    <string name="firstsong">"Показать первую песню"</string>
+    <string name="firstsong">"Первая песня"</string>
     <string name="lastsong">"Последняя песня"</string>
 
     <string name="set_edit">"Правка"</string>
